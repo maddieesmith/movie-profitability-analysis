@@ -20,6 +20,12 @@ I created this chart to explore what months have the highest ROI. I found that s
 Here we are looking at both the average and median ROI across different budget categories. 
 The difference between average and median ROI suggests that a small number of extremely profitable films may influence the average values.
 
+## SQL Analysis
+
+SQL was used to explore profitability trends and calculate key metrics such as ROI, budget tiers, and seasonal performance.
+
+The SQL queries used during analysis can be found in the `/sql` folder.
+
 ## Data Source
 
 The dataset used in this analysis comes from Kaggle.
